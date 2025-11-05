@@ -23,3 +23,8 @@ This repository store some of the basic shellscrip command for beginner in Linux
 18. top
 19. echo
 20. rm -r -- to remove a directory
+21. exit
+22. ps
+23. kill
+24. htop
+25. ls -a
