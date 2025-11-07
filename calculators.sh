@@ -6,7 +6,9 @@ Z=(A+B)(A-B)
  a=x/y
  b=(x)(y)
 
+ 2+5=7
+ 36+42=78
 
-This is sample file for the demo purpose only.
+ This is sample file for the demo purpose only.
 
 
