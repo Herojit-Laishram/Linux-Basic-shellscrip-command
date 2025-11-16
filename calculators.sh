@@ -9,6 +9,11 @@ Z=(A+B)(A-B)
  2+5=7
  36+42=78
 
+ 
  This is sample file for the demo purpose only.
+ 
+ 
+ 25/5=5
+ 30*3=90
 
-
+ 
