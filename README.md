@@ -26,5 +26,6 @@ This repository store some of the basic shellscrip command for beginner in Linux
 21. exit
 22. ps
 23. kill
-24. htop
-25. ls -a
+24. Git status
+25. htop
+26. ls -a
